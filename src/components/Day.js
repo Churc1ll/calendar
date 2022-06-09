@@ -41,6 +41,7 @@ const Wrapper = styled.article`
   .date {
     font-size: calc(26px * 0.7);
     line-height: calc(55px * 0.7);
+    color: black;
   }
 `;
 export default Day;
